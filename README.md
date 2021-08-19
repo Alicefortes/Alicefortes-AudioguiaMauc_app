@@ -2,7 +2,7 @@
 
 Nesse doc listarei algumas referências e bibliotecas usadas para a construção do app.
 
-# disponivel em
+## disponivel em
 
 https://audioguia-mauc-app.vercel.app/
 

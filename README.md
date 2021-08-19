@@ -2,6 +2,10 @@
 
 Nesse doc listarei algumas referências e bibliotecas usadas para a construção do app.
 
+# disponivel em
+
+https://audioguia-mauc-app.vercel.app/
+
 ## Para aprender sobre React, poderá checar a documentação neste link: (https://reactjs.org/).
 
 ## Referências e Libraries:

@@ -4,7 +4,7 @@ Nesse doc listarei algumas referências e bibliotecas usadas para a construção
 
 ## Onboarding
 
-Antes de começar, dê uma olhada no [onboarding](/on_boarding.md) para entender como começar os repositórios.
+Antes de começar, dê uma olhada no [onboarding](/on_boarding.md) para entender como começar a trabalhar nos repositórios.
 
 ## disponivel em
 

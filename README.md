@@ -1,6 +1,10 @@
-# Olá! Esse projeto foi criado usando React
+# APP AUDIO GUIA MAUC
 
 Nesse doc listarei algumas referências e bibliotecas usadas para a construção do app.
+
+## Onboarding
+
+Antes de começar, dê uma olhada no [onboarding](/on_boarding.md) para entender como começar os repositórios.
 
 ## disponivel em
 
